@@ -1,0 +1,25 @@
+﻿column,dtype,non_null_count,null_count,unique_count,example_values
+Product type,object,100,0,3,haircare; skincare; cosmetics
+SKU,object,100,0,100,SKU0; SKU1; SKU2
+Price,float64,100,0,100,69.80800554; 14.84352328; 11.31968329
+Availability,int64,100,0,63,55; 95; 34
+Number of products sold,int64,100,0,96,802; 736; 8
+Revenue generated,float64,100,0,100,8661.996792; 7460.900065; 9577.749626
+Customer demographics,object,100,0,4,Non-binary; Female; Unknown
+Stock levels,int64,100,0,65,58; 53; 1
+Lead times,int64,100,0,29,7; 30; 10
+Order quantities,int64,100,0,61,96; 37; 88
+Shipping times,int64,100,0,10,4; 2; 6
+Shipping carriers,object,100,0,3,Carrier B; Carrier A; Carrier C
+Shipping costs,float64,100,0,100,2.956572139; 9.716574771; 8.054479262
+Supplier name,object,100,0,5,Supplier 3; Supplier 1; Supplier 5
+Location,object,100,0,5,Mumbai; Kolkata; Delhi
+Lead time,int64,100,0,29,29; 23; 12
+Production volumes,int64,100,0,96,215; 517; 971
+Manufacturing lead time,int64,100,0,30,29; 30; 27
+Manufacturing costs,float64,100,0,100,46.27987924; 33.61676895; 30.68801935
+Inspection results,object,100,0,3,Pending; Fail; Pass
+Defect rates,float64,100,0,100,0.226410361; 4.854068026; 4.580592619
+Transportation modes,object,100,0,4,Road; Air; Rail
+Routes,object,100,0,3,Route B; Route C; Route A
+Costs,float64,100,0,100,187.7520755; 503.0655791; 141.9202818
